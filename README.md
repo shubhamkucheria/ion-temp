@@ -20,3 +20,6 @@ By default I am using online mongoDb server - mLab
 4. View in browser at `http://localhost:8080`
 
 Happy Temp-ion :)
+
+
+Check working code here https://ion-temp.herokuapp.com/
